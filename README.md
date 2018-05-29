@@ -18,10 +18,9 @@ npm run build
 ``` bash
 # 推荐使用nrm，帮助更快更高效地切换npm代理
 npm install nrm -g --registry=https://registry.npm.taobao.org
+```
 
 > 项目地址：https://github.com/Pana/nrm
-
-```
 
 ## 目录结构
 
