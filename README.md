@@ -1,7 +1,5 @@
 # vue-webpack-eslinlt
-vue-webpack-eslinlt is a light standards based on vue-cli. With my modify.
-
-> 脚手架基于vue-cli, 配置了自己项目的eslint规则。脚手架涉及vue, vue-router, vuex, zepto, webpack, babel, es6, axios, eslint, stylus, mint-ui, momentjs, etc.
+脚手架基于vue-cli, 配置了自己项目的eslint规则。脚手架涉及vue, vue-router, vuex, zepto, webpack, babel, es6, axios, eslint, stylus, mint-ui, momentjs, etc.
 
 ## 构建说明
 
@@ -21,7 +19,7 @@ npm run build
 # 推荐使用nrm，帮助更快更高效地切换npm代理
 npm install nrm -g --registry=https://registry.npm.taobao.org
 
-项目地址：https://github.com/Pana/nrm
+> 项目地址：https://github.com/Pana/nrm
 
 ```
 
