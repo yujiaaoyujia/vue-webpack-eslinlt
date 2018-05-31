@@ -1,5 +1,5 @@
 # vue-webpack-eslinlt
-脚手架基于vue-cli, 配置了自己项目的eslint规则。脚手架涉及vue, vue-router, vuex, zepto, webpack, babel, es6, axios, eslint, stylus, mint-ui, momentjs, etc.
+脚手架基于vue-cli，引入了mint-ui，是组装了flexible的移动端适配项目脚手架，配置了自己项目的eslint规则。脚手架涉及vue, vue-router, vuex, zepto, webpack, babel, es6, axios, eslint, stylus, mint-ui, momentjs, etc.
 
 ## 构建说明
 
